@@ -1,0 +1,6 @@
+1. json_server + express app server (run through package.json)
+2. auth + post service - httpclient
+3. user state service
+4. routing (based on the user state service)
+5. localStorage (refreshing)
+6. bootstrap (rwd)

@@ -1,0 +1,38 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"firstName": "Вася",
+			"lastName": "Петров",
+			"email": "vasa@mail.ru",
+			"password": "123456",
+			"role": "writer"
+		},
+		{
+			"id": 2,
+			"firstName": "Петя",
+			"lastName": "Васильев",
+			"email": "petr@mail.ru",
+			"password": "123456",
+			"role": "reader"
+		}
+	],
+	"posts": [
+		{
+			"id": 1,
+			"smallText": "Маленький текст",
+			"largeText": "Большой текст",
+			"createdAt": "2021-08-31T31:27:34.253Z",
+			"updatedAt": null,
+			"userId": 1
+		},
+		{
+			"id": 2,
+			"smallText": "Маленький текст",
+			"largeText": "Большой текст",
+			"createdAt": "2021-07-31T13:27:34.253Z",
+			"updatedAt": "2021-08-31T13:27:34.253Z",
+			"userId": 2
+		}
+	]
+}

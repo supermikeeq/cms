@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Vasa",
+      "lastName": "Петров",
+      "email": "vasa@mail.ru",
+      "password": "123456",
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "firstName": "Pete",
+      "lastName": "Васильев",
+      "email": "petr@mail.ru",
+      "password": "123456",
+      "role": "reader"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Johnson",
+      "email": "john@mail.ru",
+      "role": "reader",
+      "password": "qwerty",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "smallText": "Маленький текст 1",
+      "largeText": "Большой текст id 1",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "smallText": "Маленький текст 3",
+      "largeText": "Большой текст id 3",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "smallText": "Маленький текст 5",
+      "largeText": "Большой текст id 5",
+      "createdAt": "2021-07-31T13:27:34.253Z",
+      "updatedAt": "2021-08-31T13:27:34.253Z",
+      "userId": 2
+    },
+    {
+      "id": 8,
+      "smallText": "Маленький текст 8",
+      "largeText": "Большой текст",
+      "createdAt": "2021-07-31T13:27:34.253Z",
+      "updatedAt": "2021-08-31T13:27:34.253Z",
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "smallText": "Маленький текст 9",
+      "largeText": "Большой текст",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "smallText": "Маленький текст 10",
+      "largeText": "Большой текст",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "smallText": "Маленький текст",
+      "largeText": "Большой текст",
+      "createdAt": "2021-07-31T13:27:34.253Z",
+      "updatedAt": "2021-08-31T13:27:34.253Z",
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "smallText": "Маленький текст",
+      "largeText": "Большой текст",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "smallText": "Маленький текст",
+      "largeText": "Большой текст",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "smallText": "Маленький текст",
+      "largeText": "Большой текст",
+      "createdAt": "2021-07-31T13:27:34.253Z",
+      "updatedAt": "2021-08-31T13:27:34.253Z",
+      "userId": 2
+    },
+    {
+      "id": 21,
+      "smallText": "Маленький текст",
+      "largeText": "Большой текст",
+      "createdAt": "2021-08-31T31:27:34.253Z",
+      "updatedAt": null,
+      "userId": 1
+    },
+    {
+      "smallText": "Новый пост",
+      "largeText": "Содержание нового поста",
+      "createdAt": "2023-02-25T19:06:10.933Z",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "smallText": "Еще один новый пост",
+      "largeText": "содержание ..........................................",
+      "createdAt": "2023-02-25T19:08:00.003Z",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "smallText": "Информация",
+      "largeText": "Еще немного информации тут",
+      "createdAt": "2023-02-25T19:11:06.805Z",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "smallText": "Новости",
+      "largeText": "Классные новости тут",
+      "createdAt": "2023-02-25T19:11:35.537Z",
+      "userId": 1,
+      "id": 25
+    },
+    {
+      "smallText": "superb",
+      "largeText": "super news",
+      "createdAt": "2023-02-25T19:16:07.108Z",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "smallText": "Post",
+      "largeText": "post content",
+      "createdAt": "2023-02-26T08:02:31.496Z",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "smallText": "Маленькийnn текст 5",
+      "largeText": "Большой текст id 5",
+      "createdAt": "2023-02-26T10:41:27.013Z",
+      "userId": 2,
+      "id": 28
+    },
+    {
+      "smallText": "Маленький текст 5hhhhhhh",
+      "largeText": "Большой текст id 5",
+      "createdAt": "2023-02-26T11:31:05.228Z",
+      "userId": 2,
+      "id": 29
+    }
+  ]
+}

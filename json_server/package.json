@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+	  "json-server": "node ./node_modules/json-server/lib/cli/bin.js --watch db.json" }
+}
